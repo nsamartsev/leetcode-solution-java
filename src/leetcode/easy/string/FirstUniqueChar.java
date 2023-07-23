@@ -12,7 +12,7 @@ public class FirstUniqueChar {
 
         for (String s: strings) {
             int i = firstUniqChar(s);
-            results.put(s, Integer.valueOf(i));
+            results.put(s, i);
         }
         System.out.println(results);
     }

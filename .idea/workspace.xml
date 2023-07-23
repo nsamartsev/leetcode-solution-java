@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="536162d9-80f5-43ce-aa28-956f956d0db5" name="Changes" comment="" />
+    <list default="true" id="536162d9-80f5-43ce-aa28-956f956d0db5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/hashmap/FindAnagramMappings_760.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/linkedList/ReverseLinkedList_209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/math/PalindromeNumber_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/FindIndexFirstOccurrenceInString_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/IsSubsequence_392.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/LengthOfLastWord_58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/MergeSortedArray_88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/ValidAnagram_242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/ValidPalindrome2_680.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/hashmap/GroupAnagram_49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/binary_search/BinarySearchPosition_35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/array/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/array/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/hashmap/IsIsomorphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/hashmap/IsIsomorphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/hashmap/find_anagram_mappings_760/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/hashmap/find_anagram_mappings_760/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/linkedList/MergeTwoLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/linkedList/RemoveNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/linkedList/RemoveNthFromEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/math/AddBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/math/AddBinary_67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/math/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/math/FizzBuzz_412.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/math/MySqrt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/string/FirstUniqueChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/string/FirstUniqueChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/string/IsSubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/string/StrStr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/IsPalindrome_125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/ValidPalindrome_125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/medium/stack/ValidParentheses_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/stack/ValidParentheses_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stats.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,9 +63,106 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/nick/Developer/leetcode-solution-java/src",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.38965517",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReverseLinkedList_209">
+    <configuration name="BinarySearchPosition_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.binary_search.BinarySearchPosition_35" />
+      <module name="leetcode-solution-java" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupAnagram_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium.hashmap.GroupAnagram_49" />
+      <module name="leetcode-solution-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.medium.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPalindrome_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.two_pointers.IsPalindrome_125" />
+      <module name="leetcode-solution-java" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.array.RemoveElement" />
+      <module name="leetcode-solution-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList_209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.linkedList.ReverseLinkedList_209" />
+      <module name="leetcode-solution-java" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IsPalindrome_125" />
+      <item itemvalue="Application.GroupAnagram_49" />
+      <item itemvalue="Application.ReverseLinkedList_209" />
+      <item itemvalue="Application.BinarySearchPosition_35" />
+      <item itemvalue="Application.RemoveElement" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseLinkedList_209" />
+        <item itemvalue="Application.GroupAnagram_49" />
+        <item itemvalue="Application.BinarySearchPosition_35" />
+        <item itemvalue="Application.IsPalindrome_125" />
+        <item itemvalue="Application.RemoveElement" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +173,16 @@
       <updated>1689862372107</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium/slis_window/Longest_Substring_3/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

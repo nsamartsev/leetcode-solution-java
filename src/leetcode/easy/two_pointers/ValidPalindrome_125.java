@@ -1,10 +1,10 @@
 package leetcode.easy.two_pointers;
 
-public class ValidPalindrome {
+public class ValidPalindrome_125 {
 
     public static void main(String[] args) {
-        assert new ValidPalindrome().isPalindrome("A man, a plan, a canal: Panama");
-        assert new ValidPalindrome().isPalindrome("race a car");
+        assert new ValidPalindrome_125().isPalindrome("A man, a plan, a canal: Panama");
+        assert new ValidPalindrome_125().isPalindrome("race a car");
 
     }
 

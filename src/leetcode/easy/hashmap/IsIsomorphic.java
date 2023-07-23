@@ -11,8 +11,6 @@ public class IsIsomorphic {
         System.out.println(new IsIsomorphic().isIsomorphic("foo", "bar"));
         System.out.println(new IsIsomorphic().isIsomorphic("paper", "title"));
         System.out.println(new IsIsomorphic().isIsomorphic("badc", "baba"));
-
-
     }
 
     public boolean isIsomorphic(String s, String t) {

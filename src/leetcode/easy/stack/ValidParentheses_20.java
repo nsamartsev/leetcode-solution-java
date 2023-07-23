@@ -1,4 +1,4 @@
-package leetcode.medium.stack;
+package leetcode.easy.stack;
 
 import java.util.Deque;
 import java.util.HashMap;
@@ -12,22 +12,20 @@ import java.util.Map;
 public class ValidParentheses_20 {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.isValid("()[]{}"));
-        System.out.println(solution.isValid("(]"));
-        System.out.println(solution.isValid("()"));
+        assert solution.isValid("()[]{}");
+        assert !solution.isValid("(]");
+        assert solution.isValid("()");
     }
 
     static class Solution {
         public boolean isValid(String s) {
-
             Map<Character, Character> brackets = new HashMap<>();
             brackets.put(')', '(');
             brackets.put('}', '{');
             brackets.put(']', '[');
 
-            boolean isValid = false;
-
             Deque<Character> stack = new LinkedList<>();
+            boolean isValid = false;
 
             for (char c : s.toCharArray()) {
                 if (brackets.containsValue(c)) {

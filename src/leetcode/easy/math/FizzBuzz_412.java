@@ -3,7 +3,7 @@ package leetcode.easy.math;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FizzBuzz {
+public class FizzBuzz_412 {
     private static List<String> list = new ArrayList<>();
 
     public static void main(String[] args) {
