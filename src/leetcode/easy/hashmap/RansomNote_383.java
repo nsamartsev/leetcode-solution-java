@@ -3,11 +3,11 @@ package leetcode.easy.hashmap;
 import java.util.HashMap;
 import java.util.Map;
 
-public class CanConstruct {
+public class RansomNote_383 {
     public static void main(String[] args) {
-        System.out.println(new CanConstruct().canConstruct("aa", "aab"));
-        System.out.println(new CanConstruct().canConstruct("a", "b"));
-        System.out.println(new CanConstruct().canConstruct("aa", "ab"));
+        System.out.println(new RansomNote_383().canConstruct("aa", "aab"));
+        System.out.println(new RansomNote_383().canConstruct("a", "b"));
+        System.out.println(new RansomNote_383().canConstruct("aa", "ab"));
     }
 
     public boolean canConstruct(String ransomNote, String magazine) {

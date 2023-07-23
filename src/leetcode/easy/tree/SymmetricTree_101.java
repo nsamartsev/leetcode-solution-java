@@ -3,7 +3,7 @@ package leetcode.easy.tree;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SymmetricTree {
+public class SymmetricTree_101 {
     public static class TreeNode {
     int val;
     TreeNode left;

@@ -5,12 +5,12 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class IsIsomorphic {
+public class IsIsomorphic_205 {
     public static void main(String[] args) {
-        System.out.println(new IsIsomorphic().isIsomorphic("egg", "add"));
-        System.out.println(new IsIsomorphic().isIsomorphic("foo", "bar"));
-        System.out.println(new IsIsomorphic().isIsomorphic("paper", "title"));
-        System.out.println(new IsIsomorphic().isIsomorphic("badc", "baba"));
+        System.out.println(new IsIsomorphic_205().isIsomorphic("egg", "add"));
+        System.out.println(new IsIsomorphic_205().isIsomorphic("foo", "bar"));
+        System.out.println(new IsIsomorphic_205().isIsomorphic("paper", "title"));
+        System.out.println(new IsIsomorphic_205().isIsomorphic("badc", "baba"));
     }
 
     public boolean isIsomorphic(String s, String t) {

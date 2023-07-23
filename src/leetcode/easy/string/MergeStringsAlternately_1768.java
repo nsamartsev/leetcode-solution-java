@@ -1,6 +1,6 @@
 package leetcode.easy.string;
 
-public class N1768_MergeStringsAlternately {
+public class MergeStringsAlternately_1768 {
     public static void main(String[] args) {
 //        String s = mergeAlternately("abc", "pqr");
 //        String s = mergeAlternately("ab", "pqrs");

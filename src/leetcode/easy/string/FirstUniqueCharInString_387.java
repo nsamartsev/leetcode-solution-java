@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class FirstUniqueChar {
+public class FirstUniqueCharInString_387 {
     public static void main(String[] args) {
         List<String> strings = Arrays.asList("leetcode", "loveleetcode", "aabb");
         Map<String, Integer> results = new HashMap<>();

@@ -1,14 +1,14 @@
 package leetcode.easy.array;
 
 
-public class RemoveElement {
+public class RemoveElement_27 {
     public static void main(String[] args) {
         testCase(new int[]{3,2,2,3},3 );
         testCase(new int[]{0,1,2,2,3,0,4,2},2 );
     }
 
     public static void testCase(int[] nums, int val) {
-        System.out.println(new RemoveElement().removeElement(nums, val));
+        System.out.println(new RemoveElement_27().removeElement(nums, val));
     }
 
     public int removeElement(int[] nums, int val) {

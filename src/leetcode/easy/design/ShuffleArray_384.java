@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
 
-public class ShuffleArray {
+public class ShuffleArray_384 {
 
     public static void main(String[] args) {
 
@@ -33,16 +33,12 @@ public class ShuffleArray {
         private int[] original;
 
         public void shuffle (int[] array) {
-            // 0. Save the original
             original = array.clone();
 
-            // 1. Create a copy of Array.
-            // Convert int[] -> List<Integer>
-            List<Integer> arrayList = Arrays.stream(array).boxed().collect(Collectors.toList()); // O(n)
+            List<Integer> arrayList = Arrays.stream(array).boxed().collect(Collectors.toList());
 
-            // 2. Iterating over input array and change the value of index
             for (int i = 0; i < array.length; i++) {
-                int removeIndex = rand.nextInt(arrayList.size()); // 0(1)
+                int removeIndex = rand.nextInt(arrayList.size());
                 array[i] = arrayList.get(removeIndex); //
                 arrayList.remove(removeIndex);
             }
@@ -51,6 +47,5 @@ public class ShuffleArray {
         public int[] reset() {
             return original;
         }
-
     }
 }

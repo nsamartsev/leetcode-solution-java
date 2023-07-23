@@ -5,14 +5,14 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class WordPattern {
+public class WordPattern_290 {
 
     public static void main(String[] args) {
-        System.out.println(new WordPattern().wordPattern("abba", "dog cat cat dog"));
-        System.out.println(new WordPattern().wordPattern("abba", "dog cat cat fish"));
-        System.out.println(new WordPattern().wordPattern("aaaa", "dog cat cat dog"));
-        System.out.println(new WordPattern().wordPattern("aaaa", "dog dog dog dog"));
-        System.out.println(new WordPattern().wordPattern("abba", "dog dog dog dog"));
+        System.out.println(new WordPattern_290().wordPattern("abba", "dog cat cat dog"));
+        System.out.println(new WordPattern_290().wordPattern("abba", "dog cat cat fish"));
+        System.out.println(new WordPattern_290().wordPattern("aaaa", "dog cat cat dog"));
+        System.out.println(new WordPattern_290().wordPattern("aaaa", "dog dog dog dog"));
+        System.out.println(new WordPattern_290().wordPattern("abba", "dog dog dog dog"));
     }
 
     public boolean wordPattern(String pattern, String s) {

@@ -1,6 +1,6 @@
 package leetcode.medium;
 
-public class N2390_RemovingStarsFromString {
+public class RemovingStarsFromString_2390 {
     public static void main(String[] args) {
         String s1 = "leet**cod*e";
 //        String s1 = "erase*****";

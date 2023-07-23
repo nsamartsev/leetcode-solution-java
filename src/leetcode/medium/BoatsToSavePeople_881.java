@@ -2,7 +2,7 @@ package leetcode.medium;
 
 import java.util.Arrays;
 
-public class N881_BoatsToSavePeople {
+public class BoatsToSavePeople_881 {
     public static void main(String[] args) {
 //        int[] people = {3,5,3,4};
 //        int limit = 5; // should return 4

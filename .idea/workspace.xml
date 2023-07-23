@@ -5,36 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="536162d9-80f5-43ce-aa28-956f956d0db5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/hashmap/FindAnagramMappings_760.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/linkedList/ReverseLinkedList_209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/math/PalindromeNumber_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/FindIndexFirstOccurrenceInString_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/IsSubsequence_392.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/LengthOfLastWord_58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/MergeSortedArray_88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/string/ValidAnagram_242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/ValidPalindrome2_680.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/hashmap/GroupAnagram_49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/binary_search/BinarySearchPosition_35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/array/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/array/RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/hashmap/IsIsomorphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/hashmap/IsIsomorphic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/hashmap/find_anagram_mappings_760/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/hashmap/find_anagram_mappings_760/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/linkedList/MergeTwoLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/linkedList/RemoveNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/linkedList/RemoveNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/math/AddBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/math/AddBinary_67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/math/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/math/FizzBuzz_412.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/math/MySqrt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/string/FirstUniqueChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/string/FirstUniqueChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/string/IsSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/string/StrStr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/IsPalindrome_125.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/two_pointers/ValidPalindrome_125.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/medium/stack/ValidParentheses_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/stack/ValidParentheses_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/array/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/array/RemoveElement_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/design/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/design/MinStack_155.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/design/ShuffleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/design/ShuffleArray_384.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/hashmap/IsIsomorphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/hashmap/IsIsomorphic_205.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/hashmap/WordPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/hashmap/WordPattern_290.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/linkedList/RemoveNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/linkedList/RemoveNthFromEnd_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/moveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/array/MoveZeros_283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/string/N1768_MergeStringsAlternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/string/MergeStringsAlternately_1768.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/string/ReverseString_344.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/tree/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/tree/SymmetricTree_101.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.easy.array.RemoveElement" />
+    <configuration name="RemoveElement_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.array.RemoveElement_27" />
       <module name="leetcode-solution-java" />
       <extension name="coverage">
         <pattern>
@@ -148,10 +129,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.IsPalindrome_125" />
+      <item itemvalue="Application.RemoveElement_27" />
       <item itemvalue="Application.GroupAnagram_49" />
       <item itemvalue="Application.ReverseLinkedList_209" />
       <item itemvalue="Application.BinarySearchPosition_35" />
-      <item itemvalue="Application.RemoveElement" />
     </list>
     <recent_temporary>
       <list>
@@ -159,7 +140,7 @@
         <item itemvalue="Application.GroupAnagram_49" />
         <item itemvalue="Application.BinarySearchPosition_35" />
         <item itemvalue="Application.IsPalindrome_125" />
-        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.RemoveElement_27" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +153,20 @@
       <option name="presentableId" value="Default" />
       <updated>1689862372107</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add stats.txt">
+      <option name="closed" value="true" />
+      <created>1690138760581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690138760581</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add stats.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add stats.txt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

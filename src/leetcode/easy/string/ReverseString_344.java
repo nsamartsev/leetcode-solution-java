@@ -1,6 +1,6 @@
 package leetcode.easy.string;
 
-public class ReverseString {
+public class ReverseString_344 {
     public static void main(String[] args) {
 //        char[] input = {'h', 'e', 'l', 'l', 'o'};
         char[] input = {'t','h','i','s','i','s','t','e','s','t' };

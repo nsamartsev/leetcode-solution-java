@@ -3,7 +3,7 @@ package leetcode.easy.linkedList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class RemoveNthFromEnd {
+public class RemoveNthFromEnd_19 {
 
     public static class ListNode {
         int val;

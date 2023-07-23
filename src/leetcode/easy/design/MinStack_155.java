@@ -2,7 +2,7 @@ package leetcode.easy.design;
 
 import java.util.Stack;
 
-public class MinStack {
+public class MinStack_155 {
     public static void main(String[] args) {
         var minStack = new MinStackImpl();
         minStack.push(-2);

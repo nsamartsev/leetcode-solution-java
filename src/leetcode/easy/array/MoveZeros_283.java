@@ -1,6 +1,6 @@
-package leetcode.easy;
+package leetcode.easy.array;
 
-public class moveZeros {
+public class MoveZeros_283 {
     public static void main(String[] args) {
         int[] arr = new int[]{0, 1, 0, 3, 12};
 //        int[] arr = new int[]{1};
