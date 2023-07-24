@@ -1,5 +1,6 @@
 package leetcode.medium.hashmap;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -8,7 +9,7 @@ import java.util.Map;
  */
 public class TwoSum_167 {
     public static void main(String[] args) {
-        assert new Solution().twoSum(new int[]{2, 7, 11, 15}, 9).equals(new int[]{1, 2});
+        assert Arrays.equals(new Solution().twoSum(new int[]{2, 7, 11, 15}, 9), new int[]{1, 2});
     }
 
     static class Solution {
