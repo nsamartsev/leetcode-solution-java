@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="536162d9-80f5-43ce-aa28-956f956d0db5" name="Changes" comment="Task #167 solved - two sum">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/hashmap/TwoSum_167.java" afterDir="false" />
+    <list default="true" id="536162d9-80f5-43ce-aa28-956f956d0db5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/string/ReverseString_344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/string/ReverseString_344.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.38965517&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -159,13 +158,30 @@
       <option name="project" value="LOCAL" />
       <updated>1690139834180</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task #167 solved - two sum">
+      <option name="closed" value="true" />
+      <created>1690196504274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690196504274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task #167 solved - two sum">
+      <option name="closed" value="true" />
+      <created>1690196585874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690196585875</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add stats.txt" />
     <MESSAGE value="renamed" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed" />
+    <MESSAGE value="Task #167 solved - two sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task #167 solved - two sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
